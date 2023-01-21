@@ -321,7 +321,7 @@ int main() {
                      cout<<"for pausing the game press P";	
                  gotoxy(22,15);
 
-				 cout<<"PRESS S TO CONTINUE PRESS P TO EXIT"<<endl;
+				 cout<<"PRESS Double S TO CONTINUE PRESS P TO EXIT"<<endl;
 
 			if(_kbhit()=='S' ||_kbhit()=='s' )
 			{
